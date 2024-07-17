@@ -234,7 +234,7 @@ section.first> div :nth-child(2){
     display: flex;
     background-color: rgb(43, 43, 43);
     padding: 24px;
-    max-width: 60vw;
+    max-width: 75vw;
     margin: 14px auto;
     justify-content: space-between;
     cursor: pointer;
@@ -243,7 +243,7 @@ section.first> div :nth-child(2){
 
 footer{
     color: white;
-    max-width: 60vw;
+    max-width: 75vw;
     margin: auto;
     padding: 14px;
 }
@@ -328,7 +328,7 @@ footer{
         padding: 50px;
     }
     .faqbox{
-        width: 100%;
+        max-width: 65vw;
         height: 30px;
     }
     .faqbox span{
